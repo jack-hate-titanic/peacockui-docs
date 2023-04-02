@@ -29,6 +29,6 @@
     "prettier": "^2.7.1"
   },
   "dependencies": {
-    "peacockui": "workspace:^0.1.0"
+    "@wsondq/peacock-ui": "^0.1.0"
   }
 }
