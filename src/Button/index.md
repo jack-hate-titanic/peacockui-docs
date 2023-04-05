@@ -8,8 +8,8 @@
 
 ```jsx
 import React from 'react';
-import { Button } from 'peacockui';
-import 'peacockui/dist/index.css';
+import { Button } from 'ipeacock-ui';
+import 'ipeacock-ui/dist/index.css';
 
 export default () => <Button color="green">Hello dumi!</Button>;
 ```
