@@ -29,6 +29,6 @@
     "prettier": "^2.7.1"
   },
   "dependencies": {
-    "ipeacock-ui": "workspace:^0.3.0"
+    "ipeacock-ui": "^0.3.0"
   }
 }
